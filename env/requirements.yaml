@@ -10,9 +10,6 @@ dependencies:
 - name: jx-novum
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: jx-sandbox
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
 - name: jx-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
